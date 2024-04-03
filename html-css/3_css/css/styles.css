@@ -121,3 +121,17 @@ h2 {
     padding: 10px;
     color: #325a11;
 }
+
+/* centralizando bg image */
+.not-centered-bg, 
+.centered-bg {
+    height: 400px;
+    width: 400px;
+    background-image: url("../img/icons8-postgres-48.png");
+    
+}
+
+.centered-bg {
+    background-position: center;
+    background-size: cover;
+}

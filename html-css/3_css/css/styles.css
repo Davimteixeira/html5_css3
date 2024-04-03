@@ -7,9 +7,6 @@ body {
     padding-bottom: 500px;
 }
 
-p {
-    color: blueviolet;
-}
 
 /* classes */
 .paragraph {
@@ -85,4 +82,35 @@ h2 {
 
 .hsl-2 {
     color: hsl(2001, 20%, 50%);
+}
+
+/* Background */
+
+.bg {
+    background-color: #000;
+    color: yellow;
+}
+
+.bg-2 {
+    background-color: rgb(200, 20, 40);
+    color: #00eaff;
+}
+
+/* Background opacy */
+
+.bg-opacity {
+    background-color: green;
+    opacity: 0.2;
+}
+
+.bg-opacity-2 {
+    background-color: #999;
+    color: #000;
+    opacity: 0.8;
+}
+
+/* RGBA com opacidade */
+.rgba-opacity {
+    background-color: rgba(90, 120, 20, 0,2);
+    color: #000;
 }

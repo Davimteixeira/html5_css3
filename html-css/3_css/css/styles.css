@@ -305,3 +305,19 @@ h2 {
 .spacing {
     letter-spacing: 10px;
 }
+/* fontes */
+.serif {
+    font-family: Georgia;
+}
+.sans-serif {
+    font-family: Helvetica;
+}
+.monospace {
+    font-style: "Courier New";
+}
+.cursive {
+    font-family: cursive;
+}
+.fantasy {
+    font-family: fantasy;
+}

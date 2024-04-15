@@ -378,3 +378,8 @@ h2 {
     background-color: #333;
     display: block;
 }
+
+/* invisible */
+.invisible {
+    display: none;
+}

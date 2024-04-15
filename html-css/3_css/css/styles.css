@@ -300,3 +300,8 @@ h2 {
 .lower {
     text-transform: lowercase;
 }
+
+/* latter spacing */
+.spacing {
+    letter-spacing: 10px;
+}
